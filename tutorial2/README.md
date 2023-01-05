@@ -1,6 +1,6 @@
 # Tutorial II: Neuron software tutotial
 ---
-1. **Simulation of point neuron **
+1. **Simulation of point neuron**
     
 2. **Simulation of neuron with dendtrites**
 
